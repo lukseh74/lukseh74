@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to speak bluegarian
 - 💞️ I’m looking to collaborate on mass suicide
 - 📫 How to reach me discord: lukseh74
-- 😄 Pronouns: "<br>/<script>"
+- 😄 Pronouns: <br&nbsp;>/<script>
 - ⚡ Fun fact: i'm autistic :+1:
 
 <!---
